@@ -1,6 +1,6 @@
 # Discord-bot-Demo
 
-Written by Chan3x 
+Written by Chan3x  from Discord js
 
 Feel free to copy
 
