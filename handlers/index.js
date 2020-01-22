@@ -1,0 +1,6 @@
+export {default as hello} from './hello'
+export {default as help} from './help'
+export {default as addRole} from './addrole'
+export {default as removeRole} from './removerole'
+export {default as verification} from './verification'
+export {default as writeInChannel} from './writeinchannel'
