@@ -13,4 +13,3 @@ module.exports = writeInChannel = (msg, bot) => {
     bot.channels.get(channel).send(text)
 
 }
-//653749152768983075
