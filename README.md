@@ -4,7 +4,7 @@ Written by Chan3x  from Discord js
 
 Feel free to copy
 
-This is Discord bot for demonstration , it means there are many issue but good things too
+This is Discord bot for demonstration , it means there are many issue,but good things too
 
 verification by react at message below
 Simple Commands :
