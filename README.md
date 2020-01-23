@@ -13,7 +13,14 @@ Simple Commands :
 you have to add perfix and current guild id at ./configs/guild
 
 [perfix] help
+
 [perfix] hello
+
 [perfix] addRole [role] [@member]
+
 [perfix] RemoveRole [role] [@member]
+
 [perfix] write   <---- there is many issue 
+
+
+good luck ! 
